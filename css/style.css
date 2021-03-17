@@ -12,7 +12,7 @@ body {
     margin: auto;
 }
 
-.box-grey {
+.box-grey-dotted {
     border: 3px dotted rgb(179, 179, 179);
     padding: 10px;
 }
